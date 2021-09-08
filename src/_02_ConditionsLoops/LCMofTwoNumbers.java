@@ -39,7 +39,7 @@ public class LCMofTwoNumbers {
             }
             System.out.println("LCM = " + lcm);
         }
-        
+
 
 ////       Method 2
 ////        In this method first HCF will be calculated then using the relation between LCM and HCF, LCM will be
