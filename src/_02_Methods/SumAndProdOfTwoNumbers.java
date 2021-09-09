@@ -2,7 +2,7 @@ package _02_Methods;
 
 import java.util.Scanner;
 
-public class SumOfTwoNumbers {
+public class SumAndProdOfTwoNumbers {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -13,6 +13,13 @@ public class SumOfTwoNumbers {
         int sum = sum(n1, n2);
         System.out.println("Sum = " + sum);
 
+        int prod = prod(n1, n2);
+        System.out.println("Product = " + prod);
+
+    }
+
+    static int prod(int n1, int n2) {
+        return n1 * n2;
     }
 
     static int sum(int num1, int num2) {
