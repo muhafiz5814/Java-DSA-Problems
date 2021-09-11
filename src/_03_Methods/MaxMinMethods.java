@@ -1,4 +1,4 @@
-package _02_Methods;
+package _03_Methods;
 
 import java.util.Scanner;
 
