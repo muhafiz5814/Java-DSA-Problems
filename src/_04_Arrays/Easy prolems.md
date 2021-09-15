@@ -7,3 +7,7 @@
  7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
  8. [How many numbers are smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
  9. [Create the Target Array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+ 10. Check if Sentence is pangram(Will be solved in Strings)
+ 11. [Count Items Matcing a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+ 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+ 13. 
