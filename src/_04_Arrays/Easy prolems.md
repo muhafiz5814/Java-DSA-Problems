@@ -10,4 +10,8 @@
  10. Check if Sentence is pangram(Will be solved in Strings)
  11. [Count Items Matcing a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
  12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
- 13. 
+ 13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+ 14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+ 15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+ 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+ 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
